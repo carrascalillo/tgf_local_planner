@@ -1,0 +1,7 @@
+<library path="lib/libtgf_local_planner">
+        <class name ="tgf_local_planner/TGFPlannerROS" type ="tgf_local_planner::TGFPlannerROS" base_class_type= "nav_core::BaseLocalPlanner">
+                <description>
+                        Simplest Plugin for BaseLocalPlanner
+                </description>
+        </class>
+</library>
